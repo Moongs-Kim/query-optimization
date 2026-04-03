@@ -1,4 +1,4 @@
--- COUNT 쿼리
+-- COUNT 쿼리  
 SELECT 
 	count(b.board_id) 
 FROM 

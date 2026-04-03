@@ -1,4 +1,4 @@
--- 게시글 작성 최신순 쿼리
+-- 게시글 작성 최신순 쿼리  
 SELECT
 	b.board_id,
 	b.title,
