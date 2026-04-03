@@ -1,4 +1,4 @@
--- 상관 서브쿼리
+-- 상관 서브쿼리  
 SELECT 
 	b.board_id,
 	b.title,

@@ -1,4 +1,4 @@
--- join + group by 쿼리
+-- join + group by 쿼리  
 SELECT
 	b.board_id,
 	b.title,

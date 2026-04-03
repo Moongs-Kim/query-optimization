@@ -1,4 +1,4 @@
--- 인라인 뷰 쿼리
+-- 인라인 뷰 쿼리  
 SELECT 
 	b.board_id,
 	b.title,
